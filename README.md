@@ -21,7 +21,7 @@
   <a href="https://linkedin.com/in/dasun jayathilaka" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
   </a>
-  <a href="[https://fb.com/chamika d jayathilaka"] target="_blank">
+  <a href="[[https://fb.com/chamika d jayathilaka"]](https://www.facebook.com/share/18Yp8E5ZFm/) target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="30" width="40" />
   </a>
   <a href="https://www.youtube.com/c/vocal vibes" target="_blank">
