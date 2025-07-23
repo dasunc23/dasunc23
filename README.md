@@ -7,11 +7,11 @@
 
 <img align="right" alt="Coding" width="400px" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
 
-### 🌱 I’m currently learning **MERN**  
+### 🌱 I’m currently learning **SPRINGBOOT**  
 
 ### 💬 Ask me about  
 - **HTML | CSS | JS** (Web basics)  
-- **Java, C, C++, PHP**  
+- **Java, Python, Mern-Stack, C, C++, PHP**  
 
 ### 📫 How to reach me  
 📩 **Email:** [dasunc970@gmail.com](mailto:dasunc970@gmail.com)  
